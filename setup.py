@@ -24,7 +24,7 @@
 # SOFTWARE.
 
 import sys
-from setuptools import setup, setuptools
+from setuptools import setup, find_packages
 
 
 __author__ = "Iván de Paz Centeno"
